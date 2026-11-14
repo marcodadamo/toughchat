@@ -1,2 +1,2 @@
-# toughchat
-Lo sviluppo dell'applicazione di messaggistica
+# toughchatm app
+Lo sviluppo di una nuova applicazione di messaggistica. L'introduzione di nuove funzioni
