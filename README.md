@@ -1,4 +1,4 @@
-# [SOSTIENI IL PROGETTO TOUGHCHAT!](https://github.com/sponsors/marcodadamo/sponsorships?sponsor=marcodadamo&tier_id=682579&preview=false) 
+# [SOSTIENI IL PROGETTO TOUGHCHAT!](https://marcodadamo.github.io/ToughChat.html) 
 
 # 💬 ToughChat
 
