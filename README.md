@@ -1,7 +1,6 @@
-# toughchatm app
-Introduzione allo sviluppo dell' applicazione di messaggistica.
-
 # 💬 ToughChat
+
+Introduzione allo sviluppo dell' applicazione di messaggistica.
 
 **ToughChat** è un'applicazione Android di messaggistica istantanea progettata con un approccio *privacy-first*, crittografia end-to-end (E2EE) avanzata, strumenti di ispezione crittografica in tempo reale e un assistente di intelligenza artificiale integrato.
 
